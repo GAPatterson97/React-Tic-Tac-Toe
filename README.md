@@ -1,4 +1,4 @@
-# React-Tic-Tac-Toe
+# React Tic-Tac-Toe
 
 My first game made using React:
 
